@@ -2,7 +2,7 @@
 
 <project name="ivy-download" default="ivy.download">
     
-    <property name="ivy.install.version" value="2.4 .0"/>
+    <property name="ivy.install.version" value="2.4.0"/>
     <property name="ivy.jar.name" value="ivy-${ivy.install.version}.jar"/>
     <property name="ivy.jar.dir" value="ivy-lib"/>
     <property name="ivy.jar.file" value="${ivy.jar.dir}/ivy-${ivy.install.version}.jar"/>
